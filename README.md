@@ -19,9 +19,11 @@ Created interactive dashboards in Tableau, incorporated filters, parameters, and
 
 ## Results
 Project Type:
+
 Option 1
 
 Key Findings & Trends:
+
 •	House Price Index Ascendancy: The House Price Index consistently showed an upward trend from 2001 to 2022, indicating sustained growth in the real estate market.
 
 •	Earnings Growth: Average weekly earnings, inclusive of overtime, also exhibited a positive trajectory over the years, revealing an increase in income levels.
@@ -33,6 +35,7 @@ Key Findings & Trends:
 •	Market Dynamics: The insights underscore the importance of monitoring and managing the dynamics between housing prices and earnings to promote a sustainable and inclusive real estate market.
 
 Visualisations:
+
 •	Created a time series line chart to show the trend of house prices over the last 40 years.
 
 •	Utilized a line chart to compare the trends of house and office prices, highlighting the rate of increase.
